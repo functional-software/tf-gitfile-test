@@ -1,2 +1,3 @@
 # tf-gitfile-test
-gitfile plugin test repo
+
+_This file managed by Terraform. **Changes will be overwritten.**_
